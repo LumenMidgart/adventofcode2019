@@ -1,0 +1,52 @@
+# Inicie este proyecto para aprender python XD
+# Y sí, con adventofcode de 2019 XD
+# Partí de la idea de que programar es fácil, si tienes
+# lógica y fundamentos, no importa el lenguaje, por
+# lo tanto, python :D
+
+Lo primero que hay que tener, es el lenguaje, así que a bajarlo:
+https://www.python.org/download/releases/3.0/
+
+Links a páginas que me ayudaron a implementar
+algo en python:
+
+1. Curso básico de python 3
+    para entender las bases del programa 
+    (realmente leí las primeras 4 secciones, leeré las demás a como vaya requiriendolo xD)
+
+2. Read a file by input
+https://stackoverflow.com/questions/43508697/how-to-read-a-file-with-input-in-python-3
+
+3. declarar funciones en python
+https://www.tutorialspoint.com/python3/python_functions.htm
+
+file_name = input('Enter file name:')
+file_handle = open(file_name)   # this doesn't change file_name, but it does output something new (let's call that file_handle)
+for line in file_handle:
+    ....
+file_handle.close()
+
+4. Funciones recursivas
+    https://www.python-course.eu/python3_recursive_functions.php
+5. Comentarios multilinea
+    https://www.tutorialpython.com/comentarios-en-python/
+
+6. Listas
+    http://python-ds.com/python-lists
+    
+
+
+DÍA 1
+    Parte A:
+
+    Parte B:
+    Evitar errores al imprimir.... con print
+    n = 3
+    print("get número llamado con: ", n) # aquí funciona correcto
+    print("get número llamado con: "+ n) # aquí se requiere str(n)
+
+    Función recursiva
+DÍA 2
+    Parte A:
+        Cuartetos A, B, C, D (tiene valor y representan una posición en la lista)
+    
