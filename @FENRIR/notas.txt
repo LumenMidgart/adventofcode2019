@@ -33,7 +33,12 @@ file_handle.close()
 
 6. Listas
     http://python-ds.com/python-lists
-    
+
+7. For loop
+    https://www.learnpython.org/en/Loops
+8. For loop, incrementos
+    https://www.thegeekstuff.com/2017/07/python-for-loop-examples/
+        
 
 
 DÍA 1
