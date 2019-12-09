@@ -4,6 +4,11 @@
 # lógica y fundamentos, no importa el lenguaje, por
 # lo tanto, python :D
 
+cd c:\python3
+python c:\programming\python3\advent2019\dia3\dia3_a.py
+
+
+
 Lo primero que hay que tener, es el lenguaje, así que a bajarlo:
 https://www.python.org/download/releases/3.0/
 
@@ -33,7 +38,8 @@ file_handle.close()
 
 6. Listas
     http://python-ds.com/python-lists
-
+    https://www.geeksforgeeks.org/list-methods-in-python-set-2-del-remove-sort-insert-pop-extend/
+    
 7. For loop
     https://www.learnpython.org/en/Loops
 8. For loop, incrementos
